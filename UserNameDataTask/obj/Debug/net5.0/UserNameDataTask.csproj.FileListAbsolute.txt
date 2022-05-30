@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.exe
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.deps.json
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.dll
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\ref\UserNameDataTask.dll
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.pdb
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.dll
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\ref\UserNameDataTask.dll
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.pdb
+C:\Users\KristjanMändmets\source\repos\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.genruntimeconfig.cache
